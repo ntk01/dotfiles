@@ -72,6 +72,10 @@ brew install homebrew/cask-versions/adoptopenjdk8
 # install scala
 brew install scala
 
+# install dart
+brew tap dart-lang/dart
+brew install dart
+
 # install nodebrew
 brew install nodebrew
 # nodebrew setup
