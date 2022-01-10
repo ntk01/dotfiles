@@ -47,6 +47,9 @@ brew install docker
 # install kubectl
 brew install kubectl
 
+# install cocoapods
+brew install cocoapods
+
 # install watch
 brew install watch
 
